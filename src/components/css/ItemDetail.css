@@ -1,0 +1,13 @@
+.containerDetail{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    height: 8%;
+    padding-top: 15px;
+}
+
+.imgDetail{
+    height: 300px;
+    width: 200px;
+}

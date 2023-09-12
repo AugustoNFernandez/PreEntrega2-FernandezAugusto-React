@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "title": "La conjura de los necios",
+      "price": 8000,
+      "description": "El protagonista de esta novela es uno de los personajes más memorables de la literatura norteamericana: Ignatius Reilly --una mezcla de Oliver Hardy delirante, Don Quijote adiposo y santo Tomás de Aquino perverso, reunidos en una persona--, que a los treinta años aún vive con su estrafalaria madre, está ocupado en escribir una extensa y demoledora denuncia contra nuestro siglo, tan carente de teología geometría como de decencia y buen gusto, un alegato desquiciado contra una sociedad desquiciada. Por una inesperada necesidad de dinero, se ve catapultado en la fiebre de la existencia contemporánea, fiebre a la que Ignatius añadirá unos cuantos grandes más.",
+      "category": "ficcion",
+      "autor": "John Kennedy Toole",
+      "image": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/28727.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Nuestra parte de noche",
+      "price": 10000,
+      "description": "La herencia, el deseo de pervivir, la paternidad, el horror, lo íntimo y lo político. Una novela libre y osada, hechizante y genial.",
+      "category": "terror",
+      "autor": "Mariana Enriquez",
+      "image": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671549.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Palido fuego",
+      "price": 8500,
+      "description": "Una obra maestra, originalísima, desconcertante y diabólicamente divertida, repleta de alambicada ironía y mortífero humor. Nos hallamos ante una obra maestra, un «tour de force», una novela originalísima, desconcertante y diabólicamente divertida, que figura entre las preferidas de su propio autor y en la que refulge, de forma inigualable, su alambicada ironía y su mortífero humor.",
+      "category": "biografias",
+      "autor": "Vladimir Nabokov",
+      "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/86/10/86104c85a675e274ca33d15e665a3275.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Los peligros de fumar en la cama",
+      "price": 8800,
+      "description": "Una niña desentierra en el jardín unos huesos que resultan no ser de un animal; la bucólica escena veraniega de unas chicas que se bañan en un paraje natural acaba convertida en un infierno de celos de inquietantes consecuencias; un mendigo despreciado siembra la desgracia en un barrio pudiente",
+      "category": "terror",
+      "autor": "Mariana Enriquez",
+      "image": "https://images.cdn1.buscalibre.com/fit-in/360x360/c3/88/c3888c84aadc8efbb314c90bc19aadc3.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Desesperación",
+      "price": 7000,
+      "description": "Desesperación es una impagable joya literaria, una originalísima variación sobre el tema del doble en la que la inveterada astucia narrativa de su autor se combina con su diabólico sentido del humor. La historia empieza el día en que un fabricante de chocolate tropieza con un vagabundo que le parece su sosias",
+      "category": "biografias",
+      "autor": "Vladimir Nabokov",
+      "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/54/d5/54d5e4230dbc9c6058c40d1c8699f75c.jpg"
+    },
+    {
+      "id": 6,
+      "title": "En las nubes",
+      "price": 10000,
+      "description": "En estos siete episodios exquisitos, Peter Fortune, un hombre adulto, nos revela el secreto de las metamorfosis y las aventuras de su infancia: Ian McEwan nos brinda una encantadora obra de ficción que se dirige por igual a niños, jóvenes y adultos. Peter es un niño de diez años a quien los adultos consideran problemático sólo porque vive inmerso en sus fantasías",
+      "category": "biografias",
+      "autor": "Ian McEwan",
+      "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/62/09/6209b86654ebaef155f82131b8b66ca1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "No y yo",
+      "price": 12000,
+      "description": "La amistad entre una solitaria chica superdotada y una joven sin techo. Una hermosa novela sobre las incertidumbres de la adolescencia",
+      "category": "ficcion",
+      "autor": "Delphine de Vigan",
+      "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/95/aa/95aad474d58e617d196ee7832b1a4d41.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Un día en la vida de un editor",
+      "price": 9000,
+      "description": "El libro mas vendido de todos los tiempos",
+      "category": "biografias",
+      "autor": "Jorge Herralde Grau",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_878447-MLU69728633764_052023-O.webp"
+    },
+    {
+      "id": 9,
+      "title": "Confesión",
+      "price": 11100,
+      "description": "Tres historias que forman parte de una misma historia. En 1941, en una ciudad de provincias argentina, una niña confiesa a un sacerdote los primeros y difusos impulsos sexuales que nota en su cuerpo, relacionados con la atracción que siente por un joven apellidado Videla que pasa cada día bajo su ventana.",
+      "category": "ficcion",
+      "autor": "Martin Kohan",
+      "image": "https://imgserver1.fierro.com.ar/get/thumb/188/272/HERCI-RIV8433998996=9788433998996.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Hasta luego, y gracias por el pescado",
+      "price": 9100,
+      "description": "Imposible cuarto libro de la trilogía iniciada con la explosiva Guía del autoestopista galáctico, trata acerca de los habitantes de un planeta que siempre eran desdichados y mezquinos, y de una muchacha que de pronto supo cómo convertir el mundo en un lugar agradable y feliz.",
+      "category": "ficcion",
+      "autor": "Douglas Adams",
+      "image": "https://www.anagrama-ed.es/uploads/media/portadas/0001/14/xthumb_13545_portadas_big.jpeg.pagespeed.ic.cHgbbouRMG.webp"
+    },
+    {
+      "id": 11,
+      "title": "Su cuerpo y otras fiestas",
+      "price": 10500,
+      "description": "Una mujer se niega a permitir que su marido le quite una misteriosa cinta verde que lleva alrededor del cuello; otra mujer relata sus encuentros sexuales mientras una letal plaga se extiende por el planeta; una intervención quirúrgica para perder peso tiene unos resultados siniestros",
+      "category": "terror",
+      "autor": "Carmen Maria Machado",
+      "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/b2/20/b220efeb94a932f2e24ed5b094761dae.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Yonqui",
+      "price": 12000,
+      "description": "William S. Burroughs publicó Yonqui, en 1953, gracias a los buenos oficios de Allen Ginsberg, que se paseó con el manuscrito bajo el brazo por diversas editoriales hasta dar con Carl Solomon, un editor más valiente –y más desesperado– que otros, y que años después confesó que era tal el terror que le daba trabajar con semejante material que estuvo a punto de sufrir un colapso.",
+      "category": "terror",
+      "autor": "William S. Burroughs",
+      "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/9e/a4/9ea4b0fdcd9bded62539206e79990c88.jpg"
+    }
+  ]
+  

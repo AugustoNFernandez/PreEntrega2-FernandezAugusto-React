@@ -1,0 +1,45 @@
+.navContainer {
+    display: flex;
+    justify-content: space-between;
+   
+    padding: 5px;
+    background-color: rgb(197, 197, 197);
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: teal;
+    align-self: center;
+    
+
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 10px;
+  }
+  .imgLogo {
+    width: 60px;
+  }
+  .menu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+    padding-right: 15px;
+    font-size: 18px;
+  }
+  .lista {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: darkcyan;
+  }
+  a:hover {
+    color: turquoise;
+  }
+  

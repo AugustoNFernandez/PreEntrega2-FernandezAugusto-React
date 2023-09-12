@@ -1,0 +1,15 @@
+.container{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.item-list{
+    display: grid;
+    grid-template-columns: repeat( 4 , 1fr);
+    gap: 20px;
+    padding-top: 20px;
+}
+.titular{
+    height: 8%;
+    padding-top: 15px;
+}
